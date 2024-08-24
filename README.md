@@ -24,7 +24,7 @@
             <td>Electronic Design Automation</td>
             <td><ul>
                     <li><a href="https://github.com/atgreen/wrapilator">wrapilator</a> - Wraps verilator output in Common Lisp for testing digital logic in Lisp</li>
-                    <li><a href="https://github.com/atgreen/moxie-cores">moxie-cores</a> - HDL implementations for a processor of my own design (moxie)</li>
+                    <li><a href="https://github.com/atgreen/moxie-cores">moxie-cores</a> - HDL implementations for a processor of my own design (<a href="http://moxielogic.org/blog/pages/architecture.html">moxie</a>)</li>
             </ul></td>
         </tr>       
         <tr>
