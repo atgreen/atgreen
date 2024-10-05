@@ -44,6 +44,7 @@
                     <li><a href="https://github.com/atgreen/cl-text-splitter">cl-text-splitter</a> - A Common Lisp text splitting library</li>
                     <li><a href="https://github.com/atgreen/cl-chroma">cl-chroma</a> - A Common Lisp client for the Chroma vector database</li>
                     <li><a href="https://github.com/atgreen/cl-chat">cl-chat</a> - A Common Lisp LLM chat library and web UI</li>
+                    <li><a href="https://github.com/atgreen/scare-me">scare-me</a> - Transform RHEL Insights reports into tomorrow's headlines!</li>
             </ul></td>
         </tr>  
         <tr>
