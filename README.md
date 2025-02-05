@@ -31,6 +31,7 @@
             <td>Common Lisp</td>
             <td><ul>
                     <li><a href="https://github.com/ocicl/ocicl">ocicl</a> - An OCI-based ASDF system distribution and management tool for Common Lisp</li>
+                    <li><a href="https://github.com/atgreen/openldk">OpenLDK</a> - A Java JIT Compiler and Runtime in Common Lisp</li>
                     <li><a href="https://github.com/atgreen/privacy-output-stream">privacy-output-stream</a> - A Common Lisp output stream that masks secret strings</li>
                     <li><a href="https://github.com/atgreen/cl-etcd">cl-etcd</a> - Write distributed systems in Common Lisp</li>
             </ul></td>
