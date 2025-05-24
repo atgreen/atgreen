@@ -39,6 +39,7 @@
         <tr>
             <td>Artificial Intelligence</td>
             <td><ul>
+                    <li><a href="https://github.com/atgreen/gail">gail</a> - An AI-powered GitHub Issue labeler</li>
                     <li><a href="https://github.com/atgreen/emacs-allow-lists-for-ai-services">emacs-allow-lists-for-ai-services</a> - How to implement an "allow list" for AI services in GNU Emacs</li>
                     <li><a href="https://github.com/atgreen/cl-completions">cl-completions</a> - A Common Lisp LLM completions library</li>
                     <li><a href="https://github.com/atgreen/cl-embeddings">cl-embeddings</a> - A Common Lisp LLM embeddings library</li>             
