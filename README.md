@@ -46,7 +46,6 @@
                     <li><a href="https://github.com/atgreen/cl-text-splitter">cl-text-splitter</a> - A Common Lisp text splitting library</li>
                     <li><a href="https://github.com/atgreen/cl-chroma">cl-chroma</a> - A Common Lisp client for the Chroma vector database</li>
                     <li><a href="https://github.com/atgreen/cl-chat">cl-chat</a> - A Common Lisp LLM chat library and web UI</li>
-                    <li><a href="https://github.com/atgreen/scare-me">scare-me</a> - Transform RHEL Insights reports into tomorrow's headlines!</li>
             </ul></td>
         </tr>  
         <tr>
@@ -57,5 +56,12 @@
                     <li><a href="https://github.com/atgreen/gdash-countdown-clock">gdash-countdown-clock</a> - a web widget counting down to your next google calendar meeting</li>
             </ul></td>
         </tr>   
+        <tr>
+            <td>Fun</td>
+            <td><ul>
+                    <li><a href="https://github.com/atgreen/ctfg">ctfg</a> - A light-weight Capture-The-Flag game engine</li>
+                    <li><a href="https://github.com/atgreen/scare-me">scare-me</a> - Transform RHEL Insights reports into tomorrow's headlines!</li>                
+            </ul></td>
+        </tr>           
     </table>
 </div>
