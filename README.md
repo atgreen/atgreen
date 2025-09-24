@@ -1,8 +1,10 @@
 <div align="center">
     <h3>Hi 👋, I'm Anthony Green</h3>
     I'm a Distinguished Solution Architect at Red Hat and a long-time Open Source creator.
-    <h4 align="left">Areas of interest</h4>
-    <table align="center">
+</div>
+
+<h4>Areas of interest</h4>
+<table>
         <tr>
             <td>Language Implementations</td>
             <td><ul>
@@ -64,4 +66,3 @@
             </ul></td>
         </tr>           
     </table>
-</div>
