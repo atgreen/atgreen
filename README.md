@@ -1,6 +1,7 @@
 <div align="center">
     <h3>Hi 👋, I'm Anthony Green</h3>
-    I'm a Distinguished Solution Architect at Red Hat and a long-time Open Source creator.
+    I'm a Distinguished Solution Architect at Red Hat and a long-time Open Source creator.<br>
+    <a href="https://atgreen.github.io/repl-yell">Blog</a>
 </div>
 
 <h4>Areas of interest</h4>
@@ -36,11 +37,13 @@
                     <li><a href="https://github.com/atgreen/icl">icl</a> - An enhanced REPL for Common Lisp</li>
                     <li><a href="https://github.com/atgreen/rewrite-cl">rewrite-cl</a> - Read, modify, and write Common Lisp source code while preserving whitespace and comments</li>
                     <li><a href="https://github.com/atgreen/cl-iparse">iparse</a> - GLL parsing with EBNF/ABNF support</li>    
-                    <li><a href="https://github.com/atgreen/ag-gRPC">ag-gRPC</a> - http/2, protobufs and gRPC in pure Common Lisp</li>    
+                    <li><a href="https://github.com/atgreen/ag-gRPC">ag-gRPC</a> - http/2, protobufs and gRPC in pure Common Lisp</li>
+                    <li><a href="https://github.com/atgreen/pure-tls">pure-tls</a> - A pure Common Lisp implementation of TLS 1.3</li>    
                     <li><a href="https://github.com/atgreen/cl-tuition">tuition</a> - A Common Lisp library for building TUIs</li>                
                     <li><a href="https://github.com/atgreen/openldk">OpenLDK</a> - A Java JIT Compiler and Runtime in Common Lisp</li>
                     <li><a href="https://github.com/atgreen/privacy-output-stream">privacy-output-stream</a> - A Common Lisp output stream that masks secret strings</li>
                     <li><a href="https://github.com/atgreen/cl-etcd">cl-etcd</a> - Write distributed systems in Common Lisp</li>
+                    <li><a href="https://github.com/atgreen/cl-selfupdate">cl-selfupdate</a> - Self-update functionality for Common Lisp executables via GitHub/GitLab Releases</li>
             </ul></td>
         </tr>  
         <tr>
@@ -61,8 +64,10 @@
                     <li><a href="https://github.com/atgreen/paperless">paperless</a> - Emacs-assisted PDF document filing</li>
                     <li><a href="https://github.com/atgreen/aon">aon</a> - example code for a custom pixoo-based dashboard above my desk</li>
                     <li><a href="https://github.com/atgreen/gdash-countdown-clock">gdash-countdown-clock</a> - a web widget counting down to your next google calendar meeting</li>
+                    <li><a href="https://github.com/atgreen/agcm">agcm</a> - A TUI for the Red Hat Customer Portal API</li>
+                    <li><a href="https://github.com/atgreen/happening">happening</a> - A privacy-focused, self-hosted web analytics platform</li>
             </ul></td>
-        </tr>   
+        </tr>
         <tr>
             <td>Fun</td>
             <td><ul>
