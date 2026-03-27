@@ -44,6 +44,7 @@
                     <li><a href="https://github.com/atgreen/privacy-output-stream">privacy-output-stream</a> - A Common Lisp output stream that masks secret strings</li>
                     <li><a href="https://github.com/atgreen/cl-etcd">cl-etcd</a> - Write distributed systems in Common Lisp</li>
                     <li><a href="https://github.com/atgreen/cl-selfupdate">cl-selfupdate</a> - Self-update functionality for Common Lisp executables via GitHub/GitLab Releases</li>
+                    <li><a href="https://github.com/atgreen/whistler">whistler</a> - A Common Lisp dialect for writing eBPF programs</li>
             </ul></td>
         </tr>  
         <tr>
