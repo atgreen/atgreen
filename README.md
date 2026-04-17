@@ -14,6 +14,13 @@
             </ul></td>
         </tr>
         <tr>
+            <td>Kubernetes</td>
+            <td><ul>
+                    <li><a href="https://github.com/atgreen/caplv">CAPLV</a> - A Cluster API infrastructure provider for libvirt/KVM, designed for <a href="https://github.com/finos/5-spot">5-Spot</a> time-based worker scheduling on OpenShift</li>
+                    <li><a href="https://github.com/atgreen/capi-bootstrap-ignition">capi-bootstrap-ignition</a> - A minimal CAPI bootstrap provider for OpenShift ignition configs</li>
+            </ul></td>
+        </tr>
+        <tr>
             <td>DevOps & SRE Tooling</td>
             <td><ul>
                     <li><a href="https://github.com/ubi-micro-dev/ubi-micro-dev">ubi-micro-dev</a> - Distroless <a href="https://ubi-micro-dev.github.io/ubi-micro-dev">container images</a> for developers, updated & scanned every 6 hours</li>
