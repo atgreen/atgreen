@@ -28,6 +28,9 @@
                     <li><a href="https://github.com/atgreen/green-orb">green-orb</a> - An 'Observe and Report Buddy' for your SRE toolbox</li>
                     <li><a href="https://github.com/atgreen/red-light-green-light">red-light-green-light</a> - A git-centric policy management and enforcement tool</li>
                     <li><a href="https://github.com/atgreen/howto-change-container-yum-source">howto-change-container-yum-source</a> - How to access Satellite-hosted content in your container builds</li> 
+                    <li><a href="https://github.com/atgreen/dirq">dirq</a> - Ansible's missing agent</li>
+                    <li><a href="https://github.com/atgreen/caplv">caplv</a> - CAPLV: a Cluster API Provider for LibVirt</li>
+                    <li><a href="https://github.com/atgreen/block-copyfail">block-copyfail</a> - A BPF LSM blocker for CVE-2026-31431 (Copy Fail) that works at runtime without rebooting</li>
             </ul></td>
         </tr>
         <tr>
@@ -64,6 +67,7 @@
                     <li><a href="https://github.com/atgreen/cl-text-splitter">cl-text-splitter</a> - A Common Lisp text splitting library</li>
                     <li><a href="https://github.com/atgreen/cl-chroma">cl-chroma</a> - A Common Lisp client for the Chroma vector database</li>
                     <li><a href="https://github.com/atgreen/cl-chat">cl-chat</a> - A Common Lisp LLM chat library and web UI</li>
+                    <li><a href="https://github.com/atgreen/keyfence">keyfence</a> - Credential containment for AI agents</li>
             </ul></td>
         </tr>  
         <tr>
