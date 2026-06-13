@@ -29,7 +29,6 @@
                     <li><a href="https://github.com/atgreen/red-light-green-light">red-light-green-light</a> - A git-centric policy management and enforcement tool</li>
                     <li><a href="https://github.com/atgreen/howto-change-container-yum-source">howto-change-container-yum-source</a> - How to access Satellite-hosted content in your container builds</li> 
                     <li><a href="https://github.com/atgreen/dirq">dirq</a> - Ansible's missing agent</li>
-                    <li><a href="https://github.com/atgreen/caplv">caplv</a> - CAPLV: a Cluster API Provider for LibVirt</li>
                     <li><a href="https://github.com/atgreen/block-copyfail">block-copyfail</a> - A BPF LSM blocker for CVE-2026-31431 (Copy Fail) that works at runtime without rebooting</li>
             </ul></td>
         </tr>
