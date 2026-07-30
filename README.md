@@ -54,6 +54,11 @@
                     <li><a href="https://github.com/atgreen/cl-etcd">cl-etcd</a> - Write distributed systems in Common Lisp</li>
                     <li><a href="https://github.com/atgreen/cl-selfupdate">cl-selfupdate</a> - Self-update functionality for Common Lisp executables via GitHub/GitLab Releases</li>
                     <li><a href="https://github.com/atgreen/whistler">whistler</a> - A Common Lisp dialect for writing eBPF programs</li>
+                    <li><a href="https://github.com/atgreen/cave">cave</a> - A self-hosted code forge written in Common Lisp</li>
+                    <li><a href="https://github.com/atgreen/cl-nats">cl-nats</a> - A NATS messaging client for Common Lisp</li>
+                    <li><a href="https://github.com/atgreen/cl-x509">cl-x509</a> - X.509 certificate generation in pure Common Lisp</li>
+                    <li><a href="https://github.com/atgreen/cl-cancel">cl-cancel</a> - Cancellation propagation for Common Lisp - deadlines, timeouts, and hierarchical cancellation</li>
+                    <li><a href="https://github.com/atgreen/cl-sanitize-html">cl-sanitize-html</a> - OWASP-style HTML sanitization for Common Lisp</li>
             </ul></td>
         </tr>  
         <tr>
@@ -77,13 +82,15 @@
                     <li><a href="https://github.com/atgreen/gdash-countdown-clock">gdash-countdown-clock</a> - a web widget counting down to your next google calendar meeting</li>
                     <li><a href="https://github.com/atgreen/agcm">agcm</a> - A TUI for the Red Hat Customer Portal API</li>
                     <li><a href="https://github.com/atgreen/happening">happening</a> - A privacy-focused, self-hosted web analytics platform</li>
+                    <li><a href="https://github.com/atgreen/cloodoo">cloodoo</a> - A personal TODO system with a terminal UI and real-time multi-device sync</li>
             </ul></td>
         </tr>
         <tr>
             <td>Fun</td>
             <td><ul>
                     <li><a href="https://github.com/atgreen/ctfg">ctfg</a> - A light-weight Capture-The-Flag game engine</li>
-                    <li><a href="https://github.com/atgreen/scare-me">scare-me</a> - Transform RHEL Insights reports into tomorrow's headlines!</li>                
+                    <li><a href="https://github.com/atgreen/scare-me">scare-me</a> - Transform RHEL Insights reports into tomorrow's headlines!</li>
+                    <li><a href="https://github.com/atgreen/gloopy">gloopy</a> - A linear-arranger DAW (highly experimental)</li>                
             </ul></td>
         </tr>           
     </table>
