@@ -77,6 +77,7 @@
         <tr>
             <td>Productivity</td>
             <td><ul>
+                    <li><a href="https://github.com/atgreen/takesy">takesy</a> - A screen recorder for modern Linux desktops that auto-zooms on your activity and directs a polished screencast</li>
                     <li><a href="https://github.com/atgreen/paperless">paperless</a> - Emacs-assisted PDF document filing</li>
                     <li><a href="https://github.com/atgreen/aon">aon</a> - example code for a custom pixoo-based dashboard above my desk</li>
                     <li><a href="https://github.com/atgreen/gdash-countdown-clock">gdash-countdown-clock</a> - a web widget counting down to your next google calendar meeting</li>
