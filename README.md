@@ -11,7 +11,7 @@
             <td><ul>
                     <li><a href="https://github.com/libffi/libffi">libffi</a> - a portable foreign function interface library (it's in your python, ruby and more)</li>
                     <li><a href="https://github.com/atgreen/ggx">ggx</a> - retargeting the GNU Compiler to a new processor in 21 patches</li>
-                    <li><a href="https://github.com/atgreen/evergreen">Evergreen Common Lisp</a> - an experimental Common Lisp implementation written in Rust, with a tiered JIT, moving generational GC, and a tree shaker</li>
+                    <li><a href="https://github.com/atgreen/evergreen">Evergreen Common Lisp</a> - a Common Lisp implementation written in Rust, with a tiered JIT, moving generational GC, and a tree shaker</li>
                     <li><a href="https://github.com/atgreen/evergreen-compose">evergreen-compose</a> - build native Android apps in Common Lisp with Evergreen</li>
                     <li><a href="https://github.com/atgreen/openldk">OpenLDK</a> - A Java JIT Compiler and Runtime in Common Lisp</li>
             </ul></td>
