@@ -19,7 +19,7 @@
         <tr>
             <td>Kubernetes</td>
             <td><ul>
-                    <li><a href="https://github.com/atgreen/caplv">CAPLV</a> - A Cluster API infrastructure provider for libvirt/KVM, designed for <a href="https://github.com/finos/5-spot">5-Spot</a> time-based worker scheduling on OpenShift</li>
+                    <li><a href="https://github.com/on-prem-spot/cluster-api-provider-libvirt">CAPLV</a> - A Cluster API infrastructure provider for libvirt/KVM, designed for <a href="https://github.com/finos/5-spot">5-Spot</a> time-based worker scheduling on OpenShift</li>
                     <li><a href="https://github.com/atgreen/capi-bootstrap-ignition">capi-bootstrap-ignition</a> - A minimal CAPI bootstrap provider for OpenShift ignition configs</li>
             </ul></td>
         </tr>
